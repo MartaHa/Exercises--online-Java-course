@@ -15,6 +15,7 @@ public class Human implements Serializable {
         this.age = age;
     }
 
+
     public static long getSerialVersionUID() {
         return serialVersionUID;
     }
