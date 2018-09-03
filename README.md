@@ -1,4 +1,10 @@
-Simple Java project used to exercise skills:
+Simple Java project used to exercise working on Files:  
 
--operations on files  (DataOutPutStream, DataInputStream , FileReader, FileWriter)
--interface Serializable
+-DataOutPutStream,  
+-DataInputStream,  
+-FileReader,  
+-FileWriter),  
+- use of the interface Serializable,  
+
+
+based on an online Java course
